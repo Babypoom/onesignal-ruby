@@ -10,7 +10,7 @@ PATH
   remote: .
   specs:
     onesignal-ruby (0.3.0)
-      activesupport (>= 5.0.0, < 7)
+      activesupport (>= 4.0.0, < 7)
       faraday (~> 0.15, >= 0.15.4)
       simple_command (~> 0, >= 0.0.9)
 
